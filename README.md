@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello world, I'm Diego 👋
+
+I'm a :desktop_computer: software developer and passionate about computers, codes and movies.
+
+- :mortar_board: Bachelor in Science and Technology and undergraduate student of computer engineering at the Federal University of Rio Grande do Norte (UFRN)
+- 🌱 I’m currently learning everything about computers, mainly: data structures, concurrency, computer vision and optimization. 
+
+See my [online resume](https://diegodiogenes.github.io)
 
 <!--
 **diegodiogenes/diegodiogenes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
